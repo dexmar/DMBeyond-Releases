@@ -10,7 +10,7 @@ DMBeyond is a cross-platform application that reads your Diamond Mind Baseball s
 
 _No releases available yet. Watch this repo for updates!_
 
-<!-- Future releases will be listed here -->
+[Check release for the latest](https://github.com/dexmar/DMBeyond-Releases/releases)
 
 ## System Requirements
 
