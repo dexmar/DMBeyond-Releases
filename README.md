@@ -8,9 +8,7 @@ DMBeyond is a cross-platform (currently Windows binaries are available, Mac and 
 
 ## Downloads
 
-_No releases available yet. Watch this repo for updates!_
-
-[Check releases for the latest](https://github.com/dexmar/DMBeyond-Releases/releases)
+_[Check releases for the latest](https://github.com/dexmar/DMBeyond-Releases/releases)_
 
 ## System Requirements
 
