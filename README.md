@@ -13,7 +13,7 @@ _[Check releases for the latest](https://github.com/dexmar/DMBeyond-Releases/rel
 ## System Requirements
 
 - Windows 10/11, macOS, or Linux
-- Diamond Mind Baseball installed with season data
+- Diamond Mind Baseball v12 installed with season data
 
 ## Feedback & Issues
 
