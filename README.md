@@ -4,7 +4,7 @@ A modern utility for Diamond Mind Baseball players.
 
 ## What is DMBeyond?
 
-DMBeyond is a cross-platform (currently Windows binaries are available, Mac and Linux will get built if there is interest) application that reads your Diamond Mind Baseball season files and displays detailed Managerial Profile information in a clean, modern interface.
+DMBeyond is a cross-platform _(currently Windows binaries are available, Mac and Linux will get built if there is interest)_ application that reads your Diamond Mind Baseball season files and displays detailed Managerial Profile information in a clean, modern interface.
 
 ## Downloads
 
